@@ -7,7 +7,9 @@
 
 ---
 
-![Hacker Cat](https://i.imgur.com/u2nM2MS.gif)
+<p align="center">
+  <img src="https://i.imgur.com/BakRJw3.gif" width="200"/>
+</p>
 
 
 > 🚀 *Coding is not just a skill, it's a lifestyle...*

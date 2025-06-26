@@ -1,5 +1,31 @@
 ## Hi there 👋
 
+**Name**: Ahmadi Jaka Abdul Manaf  
+**Jurusan**: Rekayasa Perangkat Lunak (RPL)  
+**Skill**:  
+💻 HTML | CSS | JavaScript | PHP | Godot Engine
+
+---
+
+![Hacker Cat](https://i.imgur.com/u2nM2MS.gif)
+
+
+> 🚀 *Coding is not just a skill, it's a lifestyle...*
+
+---
+
+### 📌 Project Highlights:
+- 🎮 Game 2D platformer (Godot)
+- 🧮 Web Kalkulator (JavaScript)
+- 🛒 Web Toko Online (PHP)
+- 📄 Web CV Pribadi
+
+---
+
+### 📫 Connect With Me:
+📧 Email: [ahmadijaka89@gmail.com]  
+📎 GitHub: [Dex-Enthusiast](https://github.com/Dex-Enthusiast)
+
 <!--
 **Dex-Enthusiast/Dex-Enthusiast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

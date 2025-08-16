@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Rqb2N1dTVrMDdvcDN2aHFub3g4N3dyYnhsaTFjM255Nng0NG5pMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjoMAgT37/giphy.gif" width="100%">
+  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Rqb2N1dTVrMDdvcDN2aHFub3g4N3dyYnhsaTFjM255Nng0NG5pMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjoMAgT37/giphy.gif](https://c.tenor.com/l4xA_0OYJH0AAAAd/tenor.gif)" width="100%">
 </p>
 
 <div id="user-content-toc">
@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  Saya seorang <b>[POSISI-KAMU, cth: Web Developer]</b> dari <b>[LOKASI-KAMU, cth: Indonesia]</b>. 🇮🇩<br/>
+  Saya seorang <b>Ai Developer</b> dari <b>Bandung</b>. 🇮🇩<br/>
   Saya suka mengeksplorasi berbagai teknologi dan membangun proyek-proyek yang menarik.<br/>
   Jangan ragu untuk terhubung!
 </p>

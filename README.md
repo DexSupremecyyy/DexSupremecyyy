@@ -37,7 +37,7 @@
   <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
   <a href="#"><img alt="GDScript" src="https://img.shields.io/badge/GDScript-478CB0?style=for-the-badge&logo=godot-engine&logoColor=white"></a>
   
-  <br/>
+  <br>
   
   <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></a>
   <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>

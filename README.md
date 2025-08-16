@@ -32,7 +32,7 @@
 ---
 
 <h2 align="center">🛠️ My Tech Stack & Tools</h2>
-
+<center>
 <table width="100%">
   <tr>
     <td align="center" width="33%">
@@ -63,6 +63,7 @@
     </td>
   </tr>
 </table>
+</center>
 
 <h2 align="center">📊 My GitHub Stats</h2>
 <p align="center">

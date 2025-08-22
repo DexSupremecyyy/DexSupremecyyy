@@ -75,7 +75,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Dex-Enthusiast/DexSupremecyyy/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake Animation">
+  <img src="https://github.com/Dex-Enthusiast/Dex-Enthusiast/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake Animation">
 </p>
 
 ---

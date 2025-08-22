@@ -67,19 +67,19 @@
 
 <h2 align="center">📊 My GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dex-Enthusiast&show_icons=true&hide_border=true&theme=dracula&count_private=true&include_all_commits=true&icon_color=79ff97&title_color=ff79c6&text_color=f8f8f2" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DexSupremecyyy&show_icons=true&hide_border=true&theme=dracula&count_private=true&include_all_commits=true&icon_color=79ff97&title_color=ff79c6&text_color=f8f8f2" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dex-Enthusiast&layout=compact&hide_border=true&theme=dracula&langs_count=10&title_color=ff79c6&text_color=f8f8f2" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DexSupremecyyy&layout=compact&hide_border=true&theme=dracula&langs_count=10&title_color=ff79c6&text_color=f8f8f2" alt="Top Languages" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dex-Enthusiast&theme=dracula&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DexSupremecyyy&theme=dracula&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/Dex-Enthusiast/Dex-Enthusiast/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake Animation">
+  <img src="https://github.com/Dex-Enthusiast/DexSupremecyyy/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake Animation">
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dex-Enthusiast&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=DexSuremecyyyt&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>

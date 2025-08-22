@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  A passionate <b>AI Developer</b> from Bandung, Indonesia 🇮🇩
+  A passionate <b>Web Developer</b> from Bandung, Indonesia 🇮🇩
   <br />
   I love exploring new technologies and building interesting projects.
   <br />

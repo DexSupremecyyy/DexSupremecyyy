@@ -3,11 +3,11 @@
 </p>
 
 <div id="user-content-toc" align="center">
-  <h1 style="display: inline-block; margin-bottom: 0;">Hi 👋, I'm Dex-Enthusiast</h1>
+  <h1 style="display: inline-block; margin-bottom: 0;">Hi 👋, I'm Dex</h1>
 </div>
 
 <p align="center">
-  A passionate <b>Web Developer</b> from Bandung, Indonesia 🇮🇩
+  A passionate <b>Backend Developer</b> from Bandung, Indonesia 🇮🇩
   <br />
   I love exploring new technologies and building interesting projects.
   <br />

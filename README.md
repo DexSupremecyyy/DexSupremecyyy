@@ -37,6 +37,7 @@
       <p>
         <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a><br>
         <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a><br>
+        <a href="#"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"></a><br>
         <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a><br>
         <a href="#"><img alt="GDScript" src="https://img.shields.io/badge/GDScript-478CB0?style=for-the-badge&logo=godot-engine&logoColor=white"></a>
       </p>
@@ -45,8 +46,8 @@
       <h3 style="margin-bottom:10px;">Frameworks</h3>
       <p>
         <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a><br>
-        <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
-        <a href="#"><img alt="Rails" src="https://img.shields.io/badge/Rails?style=for-the-badge&logo=rails&logoColor=white"></a>
+        <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a><br>
+        <a href="#"><img alt="Rails" src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"></a>
       </p>
     </td>
     <td align="center" width="33%">
@@ -63,9 +64,9 @@
 
 <h2 align="center">📊 My GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DexSupremecyyy&show_icons=true&hide_border=true&theme=dracula&count_private=true&include_all_commits=true&icon_color=79ff97&title_color=ff79c6&text_color=f8f8f2" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DexSupremecyyy&show_icons=true&hide_border=true&theme=dracula&count_private=true&include_all_commits=true&icon_color=79ff97&title_color=ff79c6&text_color=f8f8f2" alt="Top langs" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DexSupremecyyy&layout=compact&hide_border=true&theme=dracula&langs_count=10&title_color=ff79c6&text_color=f8f8f2" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DexSupremecyyy&layout=compact&hide_border=true&theme=dracula&langs_count=10&title_color=ff79c6&text_color=f8f8f2" alt="Top languages" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DexSupremecyyy&theme=dracula&hide_border=true" alt="GitHub Streak"/>
 </p>
